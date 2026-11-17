@@ -1,3 +1,4 @@
+
 User-agent: Googlebot
 Allow: /
 
@@ -12,3 +13,11 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://dailygrouplinks.vercel.app/sitemap.xml
+Sitemap: https://dailygrouplinks.lovable.app/sitemap.xml
+Sitemap: https://dailygrouplinks.netlify.app/sitemap.xml
+Sitemap: https://dailygrouplinks.latestgroups.workers.dev/sitemap.xml
+Sitemap: https://dailygrouplinks.github.io/sitemap.xml
+Sitemap: https://dailygrouplinks.gitlab.io/sitemap.xml
+Sitemap: https://dailygrouplinks.onrender.com/sitemap.xml
