@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://dailygrouplinks.onrender.com/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <sitemap>
+    <loc>https://dailygrouplinks.vercel.app/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.lovable.app/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.netlify.app/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.latestgroups.workers.dev/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.github.io/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.gitlab.io/sitemap.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://dailygrouplinks.onrender.com/sitemap.xml</loc>
+  </sitemap>
+
+</sitemapindex>
