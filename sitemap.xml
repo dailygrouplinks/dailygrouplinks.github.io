@@ -1,33 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://dailygrouplinks.vercel.app/</loc>
-  </url>
-
-  <url>
-    <loc>https://dailygrouplinks.lovable.app/</loc>
-  </url>
-
-  <url>
-    <loc>https://dailygrouplinks.netlify.app/</loc>
-  </url>
-
-  <url>
-    <loc>https://dailygrouplinks.latestgroups.workers.dev/</loc>
-  </url>
-
-  <url>
-    <loc>https://dailygrouplinks.github.io/</loc>
-  </url>
-
-  <url>
-    <loc>https://dailygrouplinks.gitlab.io/</loc>
-  </url>
-
   <url>
     <loc>https://dailygrouplinks.onrender.com/</loc>
   </url>
-
 </urlset>
